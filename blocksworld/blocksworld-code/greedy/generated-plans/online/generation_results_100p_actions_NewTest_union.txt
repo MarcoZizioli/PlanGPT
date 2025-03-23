@@ -1,0 +1,5 @@
+Correct plans: 17654
+Skip plan generation: 0
+Total plans: 35118
+Coverage: 50.27051654422233%
+Total time: 14047.81341600418
