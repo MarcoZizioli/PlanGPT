@@ -1,0 +1,4 @@
+Correct plans: 4140
+Total plans: 12788
+Coverage: 32.37410071942446%
+Total time: 6884.950155258179
