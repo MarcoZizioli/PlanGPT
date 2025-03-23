@@ -3,7 +3,6 @@ import json
 import os
 import re
 
-
 def main():
     domains = ["blocksworld"]
 
