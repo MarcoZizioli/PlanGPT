@@ -1,0 +1,4 @@
+Correct plans: 1843
+Total plans: 2028
+Coverage: 90.87771203155819%
+Total time: 692.094945192337
