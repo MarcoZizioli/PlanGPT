@@ -11,7 +11,7 @@ Per ogni dominio:
 
 Risultati metriche + analisi delle solzuioni riportati in "risultati_greedy" e "risultati_sampling"
 
-Nel file "total_dataset.zip" sono presenti i problemi di pianificazione estratti dai seguenti dataset:
+Nella cartella "total_dataset" sono presenti i problemi di pianificazione estratti dai seguenti dataset:
   - https://github.com/pucrs-automated-planning/goal-plan-recognition-dataset
   - https://github.com/mattia93/GRNet/tree/main/testsets/TS_PerGen
 
