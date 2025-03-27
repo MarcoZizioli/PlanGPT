@@ -7,7 +7,7 @@ Per ogni dominio:
       - code-for-generation: file per generazione piani ( PS. Per effettuare la generazione dei piani servono i modelli addestrati di PlanGPT )
       - code-for-risults: file per calolo dei risultati atraverso le metriche e analisi delle soluzioni
       - generated-plans: divisi per approccio online e offline
-  - doamin-dataset-tesi: cartella che contiene i 100 problemi di pianificazione utilizzati
+  - domain-dataset-tesi: cartella che contiene i 100 problemi di pianificazione utilizzati
 
 Risultati metriche + analisi delle solzuioni riportati in "risultati_greedy" e "risultati_sampling"
 
