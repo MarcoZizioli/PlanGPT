@@ -15,4 +15,4 @@ Nella cartella "total_dataset" sono presenti i problemi di pianificazione estrat
   - https://github.com/pucrs-automated-planning/goal-plan-recognition-dataset
   - https://github.com/mattia93/GRNet/tree/main/testsets/TS_PerGen
 
-Nel file "Creazione_dataset.ipynb" è riportato il codice usato per estrarre i problemi dal file "total_dataset.zip", con lo scopo di creare i dataset che sono andato a utilizare.
+Nel file "Creazione_dataset.ipynb" è riportato il codice usato per estrarre i problemi dalla cartella "total_dataset", con lo scopo di creare i dataset che sono andato a utilizare.
