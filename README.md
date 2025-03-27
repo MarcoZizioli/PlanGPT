@@ -10,3 +10,9 @@ Per ogni dominio:
   - doamin-dataset-tesi: cartella che contiene i 100 problemi di pianificazione utilizzati
 
 Risultati metriche + analisi delle solzuioni riportati in "risultati_greedy" e "risultati_sampling"
+
+Nel file "total_dataset.zip" sono presenti i problemi di pianificazione estratti dai seguenti dataset:
+  - https://github.com/pucrs-automated-planning/goal-plan-recognition-dataset
+  - https://github.com/mattia93/GRNet/tree/main/testsets/TS_PerGen
+
+Nel file "Creazione_dataset.ipynb" è riportato il codice usato per estrarre i problemi dal file "total_dataset.zip", con lo scopo di creare i dataset che sono andato a utilizare.
